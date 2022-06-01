@@ -1,0 +1,11 @@
+aiofiles
+email-validator
+fastapi
+passlib
+pydantic
+python-multipart
+uvicorn
+odmantic
+dnspython
+boto3
+requests
